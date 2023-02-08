@@ -1,0 +1,40 @@
+.vaccination-coverage {
+  font-family: 'Roboto';
+  font-size: 25px;
+  color: #94a3b8;
+  font-weight: 700;
+  align-self: flex-start;
+}
+.cowin-vaccination-heading {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 24px;
+  font-weight: 800;
+  margin-top: 6px;
+}
+.barchart-container {
+  background-color: #1c1c2b;
+  width: 80%;
+  background-size: cover;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.failure-container {
+  width: 40vw;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.failure-image {
+  height: 300px;
+  width: 400px;
+}
+.failure-msg {
+  color: #ffffff;
+  font-family: 'Bree Serif';
+  font-size: 20px;
+  font-weight: 700;
+}
